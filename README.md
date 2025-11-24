@@ -67,4 +67,10 @@ python flappybird.py
 
 
 ---
+## **AUTHOR**
+ANUSHKA BHATNAGAR
+25BCE10312
+CSE CORE SEM 1
+
+
 
