@@ -62,7 +62,7 @@ python flappybird.py
 ---
 
 ## **Screenshots**
-![Uploading image.png…]()
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/397bb569-2a91-40f2-ab6b-800250898080" />
 
 
 
